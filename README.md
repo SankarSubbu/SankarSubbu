@@ -1,16 +1,31 @@
-### Hi there 👋
+<img align ="right" src = "https://visitor-badge.laobi.icu/"/>
 
-<!--
-**SankarSubbu/SankarSubbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align = "center">
+  <a href = "https://git.io/typing-svg"></a>
+</h1>
 
-Here are some ideas to get you started:
+<h3 align = "center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align = "center">
+  🏝️ Passionate Full Stack Developer.
+</div>
+
+<div align = "center">
+<a href = "mailto:subbutup2612@gmail,com"></a>
+  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,java,py,express,nodejs,react,mongodb,mysql,html,css,vscode,eclipse,bootstrap,materialui,git,github" />
+  </a>
+</div>
+
+<div align = "center">
+  <h2 align = "center">🔥 Stats 🔥</h2>
+  <img src = "https://streak-stats.demolab.com/?user=SankarSubbu"/>
+</div>
