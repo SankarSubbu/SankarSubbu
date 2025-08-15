@@ -13,8 +13,9 @@
 </div>
 
 <div align = "center">
-<a href = "mailto:subbutup2612@gmail,com"></a>
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:subbutup2612@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 <hr/>
