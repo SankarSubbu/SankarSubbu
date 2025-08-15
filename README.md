@@ -1,9 +1,3 @@
-<img align ="right" src = "https://visitor-badge.laobi.icu/"/>
-
-<h1 align = "center">
-  <a href = "https://git.io/typing-svg"></a>
-</h1>
-
 <h3 align = "center">Aspiring Data Analyst</h3>
 
 <br/>
