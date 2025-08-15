@@ -4,12 +4,12 @@
   <a href = "https://git.io/typing-svg"></a>
 </h1>
 
-<h3 align = "center">A Full Stack Developer</h3>
+<h3 align = "center">Aspiring Data Analyst</h3>
 
 <br/>
 
 <div align = "center">
-  🏝️ Passionate Full Stack Developer.
+  🏝️ Passionate Data Analyst.
 </div>
 
 <div align = "center">
@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,express,nodejs,react,mongodb,mysql,html,css,vscode,eclipse,bootstrap,materialui,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,mongodb,mysql,git,github,powerbi" />
   </a>
 </div>
 
